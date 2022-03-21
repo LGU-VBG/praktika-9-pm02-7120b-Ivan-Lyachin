@@ -1,0 +1,16 @@
+table {
+  width: 600px;
+  height: 600px;
+  border-collapse: collapse;
+}
+
+td {
+  width: 200px;
+  height: 200px;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+td:hover {
+  background: url(horse.png);
+  background-size: cover;
+}
